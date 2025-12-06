@@ -77,6 +77,12 @@ python3 main.py test_bad_code.py
 - **Suggested Fix**: Use environment variables for AWS credentials.
 ```
 
+## 🌍 Real-World Verification
+
+The agent has been verified against production-grade codebases, including:
+
+-   **OpenAI Python SDK** (`_base_client.py`): Identified subtle improvement opportunities in error handling specificity and configuration validation, demonstrating value even for mature codebases.
+
 ## 📄 License
 
 MIT
