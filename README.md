@@ -1,4 +1,4 @@
-# Production Code Checker Agent 🕵️‍♂️
+# Production Code Checker Workflow 🕵️‍♂️
 
 An AI-powered CLI tool that reviews Python code for production readiness. It acts as a **Production ML Engineering Assistant**, analyzing your code for reliability, maintainability, and scalability gaps.
 
